@@ -1,18 +1,12 @@
 # Animaux
 
-Projet Java - MIAGE L2 S2 - Modélisation Orientée Objet
+Modélisation orientée objet d'un refuge pour animaux en Java.
 
 ## Contenu
 
-### TD2 - Refuge pour animaux
 - `animaux/` : Hiérarchie d'animaux (Animal, Chat, Chien, AnimalPuce)
-- `structures/` : Refuge et gestion des exceptions (NumPuceException)
-- `main/` : Classes de tests (TestAnimaux, TestAnimaux2)
-
-## Concepts abordés
-- Héritage et polymorphisme
-- Gestion d'exceptions
-- Collections
+- `structures/` : Refuge et gestion des exceptions
+- `main/` : Classes de tests
 
 ## Technologie
 - Java
